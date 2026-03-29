@@ -1,13 +1,21 @@
-# 📊 Probabilistic Model Audit System
+# 🛡️ Defense Propagation Audit - Level 9 (TRL9)
 
-This repository implements a **Model Calibration Audit** framework, specifically designed to monitor **Brier Scores** in high-stakes environments (e.g., pathology progression).
+**Project Origin:** Technical Audit vs. AI Hallucination  
+**Core Framework:** Friis Transmission Equation & MLP Regressor Neural Network
 
-## 🚀 Key Senior Features
-- **Reliability Engineering:** Automated tracking of model calibration over 1600+ days.
-- **Uncertainty Quantification:** Built-in auditing for probabilistic forecasts to ensure safety margins.
-- **Production-Ready Code:** Optimized with NumPy vectorization to handle large-scale audit datasets.
+## 📑 Overview
+This repository hosts a mission-critical propagation monitoring system designed for long-range link budget audits (up to 1,200 km). It cross-validates theoretical physics with machine learning to eliminate model hallucinations in high-stakes environments.
 
-## 🛠 Tech Stack
-- **Language:** Python 3.x
-- **Core Library:** NumPy (Vectorized Mathematical Operations)
-- **Domain:** Data Reliability & MLOps
+### 🚀 Key Components:
+- **`auditoria_final_hd.mp4`**: Real-time signal tracking visualization.
+- **`modelo_propagacao_nivel9.pkl`**: Pre-trained, physics-bound AI model.
+- **`US_SHIELD_TECHNICAL_MANIFESTO.pdf`**: The deterministic foundation of the audit.
+
+### 🔬 Technical Specs:
+- **Frequency:** 2.4 GHz (Configurable)
+- **Safety Margin:** 17 dB (Fade Margin)
+- **Target Range:** 1,200 km
+- **Model:** Scikit-Learn MLPRegressor (Audited Convergence)
+
+---
+*Developed under Senior Engineering standards for aerospace and defense applications.*
